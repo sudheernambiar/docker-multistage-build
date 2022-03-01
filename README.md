@@ -68,4 +68,4 @@ A new container will pop up and will deploy sample nodejs app at 80 port of the 
 #### ⚙️ Connect with Me
 
 <p align="center">
-<a href="mailto:sudheer.ck@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:sudheer.ck@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
