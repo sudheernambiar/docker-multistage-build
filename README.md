@@ -22,7 +22,7 @@ systemctl enable docker
 
 ### Create the docker build file
 ```
- ~]# vi Dockerfile
+$ vi Dockerfile
 FROM alpine:3.15 as compiler
 ENV  HOME /var/app
 RUN  mkdir $HOME
@@ -41,7 +41,7 @@ COPY --from=compiler /var/app/japp .
 CMD ["japp"]
 
 #sample app file,
-#vi app.js
+$vi app.js
 const http = require('http');
 
 const server = http.createServer((request, response) => {
